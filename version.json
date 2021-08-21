@@ -1,3 +1,4 @@
 {
-     "version": "1.0"
+     "version": "3.0",
+     "description": "- Performance improvements\n- Mysql Queries have been optimized\n- Added QBCORE support\n- It will now appear as days in the remaining time."
 }
