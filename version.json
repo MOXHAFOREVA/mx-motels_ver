@@ -1,4 +1,4 @@
 {
-     "version": "3.3",
-     "description": "\n- Added PEPECORE support\n- Fixed the issue of not adding more than 20 days of time. [MySQL has been modified]\n- Fixed the issue where the time was not updating sometimes.\n- Added some code for qtarget. qtarget will be supported soon.\n- Fixed the issue where sometimes the data was not loaded when logging in on QBcore.\n- Motel Notification window is now symmetrical"
+     "version": "3.5",
+     "description": "\n- Fixed the change room issue on ESX\n- Redesigned\n- Now qtarget is supported\n- Added multiple door locking\n- Now qbphone is suported\n- Now oxmysql is supported"
 }
