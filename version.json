@@ -1,4 +1,4 @@
 {
-     "version": "3.5",
-     "description": "\n- Fixed the change room issue on ESX\n- Redesigned\n- Now qtarget is supported\n- Added multiple door locking\n- Now qbphone is suported\n- Now oxmysql is supported"
+     "version": "3.5.1",
+     "description": "The code written for the doors has been optimized. \nbefore: 0.34ms AVG \nafter: 0.3ms AVG"
 }
