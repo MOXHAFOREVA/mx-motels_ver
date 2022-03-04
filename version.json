@@ -1,4 +1,4 @@
 {
-     "version": "3.5.1",
-     "description": "The code written for the doors has been optimized. \nbefore: 0.34ms AVG \nafter: 0.3ms AVG"
+     "version": "3.6",
+     "description": "Optimization has been made in the room. \nbefore: 0.26 AVG \nafter: 0.5 AVG\nAdded custom naming for elevator floors. credit: iSentrie"
 }
