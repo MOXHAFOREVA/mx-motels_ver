@@ -1,4 +1,4 @@
 {
-     "version": "3.7",
-     "description": "Some spaghetti codes cleared\nFixed some css errors - credit: iSentrie\nFixed the bug of not giving money to employees.\nAdded latest version qb-core support\nAdded latest version ox_inventory support - credit: iSentrie"
+     "version": "3.7.5",
+     "description": "Fixed the Motel Breaking issue"
 }
