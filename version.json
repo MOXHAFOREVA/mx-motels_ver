@@ -1,4 +1,4 @@
 {
-     "version": "3.7.6",
-     "description": "important junkcode removed."
+     "version": "3.7.7",
+     "description": "Removed config callback. Webhooks are still on the server"
 }
