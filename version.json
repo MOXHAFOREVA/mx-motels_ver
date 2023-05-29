@@ -1,4 +1,4 @@
 {
-     "version": "4.2.2", 
-     "description": "Added `fixMotelBug` command. This command will get the player out if they are trapped inside."
+     "version": "4.2.3", 
+     "description": "Minor code fixes."
 }
