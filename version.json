@@ -1,4 +1,4 @@
 {
-     "version": "4.2.4", 
-     "description": "Fix of the bill configuration."
+     "version": "4.2.5", 
+     "description": "Now supporting ox_inventory for qb core."
 }
