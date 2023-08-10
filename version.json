@@ -1,4 +1,3 @@
 {
-     "version": "5.0.0", 
-     "description": "\nIn game motel creator added\nShell and ipl rooms are now available\nCheck-in is now available\nPersonal stashes option is now available\nRaid is now available\nStash and gardrobe limits are removed. Can be added unlimited\nThe rooms of shell and ipl motels can be added up to a maximum of 500 rooms (Each of motel)\nqs-inventory is now working with motel\n+500 ipl rooms added. \n NOTES\n\nIf you have previous versions, know that players' stash data will be reset with this update. So make sure that players get their items from the stash before you do this update\nTargets are TEMPORARILY disabled. It will be reactivated as soon as possible"
-}
+     "version": "5.0.1", 
+     "description": "ox_inventory's problem solved"
