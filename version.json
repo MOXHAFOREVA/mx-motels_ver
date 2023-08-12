@@ -1,4 +1,4 @@
 {
-     "version": "5.0.2", 
-     "description": "Added automatic converter of old motel data"
+     "version": "5.0.3", 
+     "description": "Code optimization\nThe problem with floating texts has been theoretically solved\nAdded Config.setConfigSql If you set false you have to add sql manually"
 }
