@@ -1,4 +1,4 @@
 {
-     "version": "5.0.3", 
-     "description": "Code optimization\nThe problem with floating texts has been theoretically solved\nAdded Config.setConfigSql If you set false you have to add sql manually"
+     "version": "5.0.4", 
+     "description": "motelcreator fixed in qb"
 }
