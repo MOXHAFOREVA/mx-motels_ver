@@ -1,4 +1,4 @@
 {
-     "version": "5.0.5", 
-     "description": "Fixed the issue where motels created with CreatorMenu were not saved to stashes in ox inventory."
+     "version": "5.0.6", 
+     "description": "Fixed the issue with accessAllRooms"
 }
