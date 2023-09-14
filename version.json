@@ -1,4 +1,4 @@
 {
-     "version": "5.0.8", 
-     "description": "Customers can now extend their leases\nMoney functions are now open source\nManagement function is now open source"
+     "version": "5.1.0", 
+     "description": "When the customer is hired. Fixed authorizations not being saved at the beginning\nAdded automatic cleaning of all items in the room when the player leaves the room (Just for standalone inventory)\nAdded automatic locking of doors, stashes and wardrobes when a player leaves a room\nNow employees need permission to open the doors, stashes and gardrobes of the rooms. Employee permissions have been expanded"
 }
