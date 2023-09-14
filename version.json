@@ -1,4 +1,4 @@
 {
-     "version": "5.0.7", 
-     "description": "Fixed the issue with accessAllRooms"
+     "version": "5.0.8", 
+     "description": "Customers can now extend their leases\nMoney functions are now open source\nManagement function is now open source"
 }
