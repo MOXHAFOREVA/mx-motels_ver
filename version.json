@@ -1,4 +1,4 @@
 {
-     "version": "5.1.1", 
-     "description": "Fixed the qs-inventory's metadata problem in qb."
+     "version": "5.1.2", 
+     "description": "Fixed the performance issue when player connected the server."
 }
