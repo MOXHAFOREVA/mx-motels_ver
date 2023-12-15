@@ -1,4 +1,4 @@
 {
-     "version": "5.1.2", 
-     "description": "Fixed the performance issue when player connected the server."
+     "version": "5.1.3", 
+     "description": "Theoretically fixed the problem that sometimes locale is not initalized."
 }
