@@ -1,4 +1,4 @@
 {
-     "version": "5.1.3", 
-     "description": "Theoretically fixed the problem that sometimes locale is not initalized."
+     "version": "5.1.4",
+     "description": "-Fixed the problem that sometimes locale is not initalized.\n- Fixed bill data not updating when after the connect\n- Fixed the wrong arguments passed for stashes"
 }
