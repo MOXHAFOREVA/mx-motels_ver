@@ -1,4 +1,4 @@
 {
-     "version": "5.1.4",
-     "description": "-Fixed the problem that sometimes locale is not initalized.\n- Fixed bill data not updating when after the connect\n- Fixed the wrong arguments passed for stashes"
+     "version": "5.1.5",
+     "description": "-Solved the ox's personal stashes issue"
 }
