@@ -1,4 +1,4 @@
 {
-     "version": "5.1.6",
-     "description": "- New way to use qs-inventory's stash"
+     "version": "5.1.7",
+     "description": "- Don't need to fetch phone anymore"
 }
