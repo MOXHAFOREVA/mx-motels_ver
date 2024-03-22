@@ -1,4 +1,4 @@
 {
-     "version": "5.1.7",
-     "description": "- Don't need to fetch phone anymore"
+     "version": "5.1.8",
+     "description": "- When you set false the bill, doesn't add money to the storage"
 }
