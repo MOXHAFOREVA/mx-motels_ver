@@ -1,4 +1,4 @@
 {
-     "version": "5.1.8",
-     "description": "- When you set false the bill, doesn't add money to the storage"
+     "version": "5.1.9",
+     "description": "- Fixed wrong sql injection on qb"
 }
