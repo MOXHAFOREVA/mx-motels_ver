@@ -1,4 +1,4 @@
 {
      "version": "5.3.0",
-     "description": "- Now you can edit created motels - Fixed a bug when purchasable and autosystem were setted true - `mx_motels_list` has been removed, we now use json. So you can create even very large motels - Config.customMotelRooms added"
+     "description": "- Now you can edit created motels\n - Fixed a bug when purchasable and autosystem were setted true\n - `mx_motels_list` has been removed, we now use json. So you can create even very large motels\n - Config.customMotelRooms added"
 }
