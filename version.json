@@ -1,4 +1,4 @@
 {
-     "version": "5.3.1",
+     "version": "5.3.2",
      "description": "- Now you can edit created motels\n - Fixed a bug when purchasable and autosystem were setted true\n - `mx_motels_list` has been removed, we now use json. So you can create even very large motels\n - Config.customMotelRooms added\n - Fixed the problem that occurred when adding ipl without theme"
 }
